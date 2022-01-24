@@ -2,7 +2,7 @@
 
 ## Link to Site
 
-https://budget-tracker-22.herokuapp.com/
+https://wstaylor27.github.io/React-Portfolio/
 
 ## Table of Contents
 
