@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.9143ee66.css",
+    "main.js": "/my-app/static/js/main.0c3b6f48.js",
+    "static/media/nasa-rTZW4f02zY8-unsplash.jpg": "/my-app/static/media/nasa-rTZW4f02zY8-unsplash.23084e057faa2747a436.jpg",
+    "static/media/jesse-collins-FFPqqU97fkk-unsplash.jpg": "/my-app/static/media/jesse-collins-FFPqqU97fkk-unsplash.520faa9eab93b9cee12a.jpg",
+    "static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.jpg": "/my-app/static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.70870597c791ca9e6ba5.jpg",
+    "static/media/rihards-sergis-EH-a9zA9TNw-unsplash.jpg": "/my-app/static/media/rihards-sergis-EH-a9zA9TNw-unsplash.9fed93a28d8515a1cb4c.jpg",
+    "static/media/clemens-jezler-mIV2_977biU-unsplash.jpg": "/my-app/static/media/clemens-jezler-mIV2_977biU-unsplash.8700597787f3c6171d0a.jpg",
+    "static/media/tiagojoaoreis-ltYGmSV3dig-unsplash.jpg": "/my-app/static/media/tiagojoaoreis-ltYGmSV3dig-unsplash.4f929dd9703946f3c213.jpg",
+    "static/media/george-kroeker-5H1KvcQTKsU-unsplash.jpg": "/my-app/static/media/george-kroeker-5H1KvcQTKsU-unsplash.11483e2aaf3562ea555a.jpg",
+    "index.html": "/my-app/index.html",
+    "main.9143ee66.css.map": "/my-app/static/css/main.9143ee66.css.map",
+    "main.0c3b6f48.js.map": "/my-app/static/js/main.0c3b6f48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9143ee66.css",
+    "static/js/main.0c3b6f48.js"
+  ]
+}
