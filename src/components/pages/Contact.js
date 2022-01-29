@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { checkPassword, validateEmail } from "../../utils/helpers";
+import { validateEmail } from "../..helper/utils/helpers";
 
 export default function Contact() {
   const [name, setName] = useState("");
