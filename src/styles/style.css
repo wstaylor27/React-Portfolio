@@ -33,6 +33,10 @@ nav a {
     text-decoration: none;
 }
 
+.nav-item {
+    margin: 6px;
+}
+
 /* Banner below the header */
 .banner {
     height: 300px;

@@ -23,12 +23,14 @@ export function Portfolio() {
     }
     return <Resume />;
   };
+
+  const handlePageChange = (page) => setCurrentPage(page);
+
   return (
     <div>
-      <div class="banner"></div>
       <main>
         {/* About Me Area */}
-        <section id="about-me" class="about-me">
+        <section id="about" class="about">
           <aside>
             <h4>About Me</h4>
           </aside>

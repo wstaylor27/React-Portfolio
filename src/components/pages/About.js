@@ -1,7 +1,7 @@
 import React from "react";
 
-import "../styles/style.css";
-import "../styles/reset.css";
+import "../../styles/style.css";
+import "../../styles/reset.css";
 
 export default function About() {
   return (
