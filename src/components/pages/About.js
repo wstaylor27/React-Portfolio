@@ -1,8 +1,11 @@
 import React from "react";
 
-export default function AboutMe() {
+import "../styles/style.css";
+import "../styles/reset.css";
+
+export default function About() {
   return (
-    <div id="about-me" className="about-me">
+    <div id="about" className="about">
       <aside>
         <h1>About Me</h1>
       </aside>

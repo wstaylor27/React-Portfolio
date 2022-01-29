@@ -6,10 +6,13 @@ import "../styles/reset.css";
 
 export function Header() {
   return (
-    <header>
-      <h1>Wesley Taylor : Interactive Portfolio</h1>
-      <p>Pushing the boundaries of software development.</p>
-      <Navbar />
-    </header>
+    <div>
+      <header>
+        <h1>Wesley Taylor : Interactive Portfolio</h1>
+        <p>Pushing the boundaries of software development.</p>
+        <Navbar />
+      </header>
+      <div class="banner"></div>
+    </div>
   );
 }

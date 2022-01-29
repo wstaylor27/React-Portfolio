@@ -67,11 +67,11 @@ aside h4 {
     color: rgb(12, 83, 150);
 }
 
-.about-me {
+.about {
     display: flex;
 }
 
-.about-me .text {
+.about .text {
     padding: 0 25px 0 25px;
     width: 75%;
 }
