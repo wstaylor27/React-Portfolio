@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import Project from "./Project/index";
+import Project from "../Project/index";
 
-import "../styles/style.css";
-import "../styles/reset.css";
+import "../../styles/style.css";
+import "../../styles/reset.css";
 
 export default function Portfolio() {
   const [projects] = useState([
