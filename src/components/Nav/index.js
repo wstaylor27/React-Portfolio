@@ -4,7 +4,7 @@ import { capitalizeFirstLetter } from "../../utils/helpers";
 import "../../styles/style.css";
 import "../../styles/reset.css";
 
-function Navbar(props) {
+function Nav(props) {
   const { pages = [], setCurrentPage, currentPage } = props;
 
   useEffect(() => {
@@ -13,12 +13,10 @@ function Navbar(props) {
 
   return (
     <nav>
-      <ul className="flex-row nav nav-tabs">
+      <ul className="flex-row">
         {pages.map((Page) => (
           <li
-            className={`mx-5 nav-item ${
-              currentPage.name === Page.name && "navActive"
-            }`}
+            className={`mx-5 ${currentPage.name === Page.name && "navActive"}`}
             key={Page.name}
           >
             <span onClick={() => setCurrentPage(Page)}>
@@ -31,4 +29,4 @@ function Navbar(props) {
   );
 }
 
-export default Navbar;
+export default Nav;

@@ -2,13 +2,13 @@ import React, { useState } from "react";
 import Page from "./components/Page";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
+import Nav from "./components/Nav";
 
 // In our main App component, we are rendering only single instances of Header and Navbar and several instances of Card
 function App() {
   const [pages] = useState([
     {
-      name: "about me",
+      name: "about",
     },
     { name: "portfolio" },
     { name: "contact" },
@@ -22,11 +22,11 @@ function App() {
   return (
     <div>
       <Header>
-        <Navbar
+        <Nav
           pages={pages}
           setCurrentPage={setCurrentPage}
           currentPage={currentPage}
-        ></Navbar>
+        ></Nav>
       </Header>
       <main>
         <Page currentPage={currentPage}></Page>
