@@ -2,14 +2,14 @@ import React from "react";
 import { removeHyphensAndCapitalize } from "../../utils/helpers";
 
 function Project({ project }) {
-  const { name, repo, link, description, image } = project;
+  const { name, repo, link, description } = project;
 
   //   src={require(`../../assets/projects/${name}.jpg`)}
 
   return (
     <div className="cards card" key={name}>
       <img
-        src={require(`../../images/${image}`)}
+        src={require(`../../images/${name}.jpg`)}
         alt={removeHyphensAndCapitalize(name)}
         className="card__img"
       />
