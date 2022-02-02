@@ -8,7 +8,7 @@ import Nav from "./components/Nav";
 function App() {
   const [pages] = useState([
     {
-      name: "about",
+      name: "about me",
     },
     { name: "portfolio" },
     { name: "contact" },

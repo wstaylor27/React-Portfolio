@@ -26,6 +26,11 @@ nav ul {
     min-width: 250px;
 }
 
+nav li {
+    margin: 6px;
+
+}
+
   
 nav a {
     color: #ffffff;

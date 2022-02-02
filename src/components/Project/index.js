@@ -19,14 +19,14 @@ function Project({ project }) {
 
       <div className="card__info">
         <span className="card__category">Project</span>
-        <h3 className="card__title">
-          <span className="card__by ">
-            <a href={link}>{removeHyphensAndCapitalize(name)}</a>{" "}
-            <a href={repo}>
-              <i className="fab fa-github"></i>
-            </a>
-          </span>
-        </h3>
+        <h3 className="card__title">{removeHyphensAndCapitalize(name)}</h3>
+        <span className="card__by ">
+          <a href={link}>{removeHyphensAndCapitalize(name)}</a>{" "}
+          <a href={repo}>
+            <i className="fab fa-github"></i>
+          </a>
+        </span>
+
         <p>{description}</p>
       </div>
     </div>
