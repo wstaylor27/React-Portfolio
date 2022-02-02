@@ -9,7 +9,7 @@ function Project({ project }) {
   return (
     <div className="cards card" key={name}>
       <img
-        src={require(`../../images/${image}.jpg`)}
+        src={require(`../../images/${image}`)}
         alt={removeHyphensAndCapitalize(name)}
         className="card__img"
       />
@@ -30,29 +30,3 @@ function Project({ project }) {
 }
 
 export default Project;
-
-{
-  /* <div className="cards">
-<article className="card card--1">
-  <div className="card__img"></div>
-  <a
-    href="https://check-mate-finance-tool.herokuapp.com/"
-    target="_blank"
-    className="card_link"
-    rel="noreferrer"
-  >
-    <div className="card__img--hover"></div>
-  </a>
-  <div class="card__info">
-    <span class="card__category">Project</span>
-    <h3 class="card__title">Check Mate Finance Tool</h3>
-    <span class="card__by">
-      by
-      <a href="#" class="card__author" title="author">
-        Collaboration
-      </a>
-    </span>
-  </div>
-</article>
-</div> */
-}
