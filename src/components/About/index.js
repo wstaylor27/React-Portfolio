@@ -6,6 +6,9 @@ import "../../styles/reset.css";
 export default function About() {
   return (
     <div id="about" className="about">
+      <aside>
+        <h4>About Me</h4>
+      </aside>
       <p>
         So, how did I become a software developer? Better question -- why? Two
         years ago, I realized my full-time job at the time needed a change. The

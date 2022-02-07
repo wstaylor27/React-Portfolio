@@ -13,7 +13,7 @@ function Project({ project }) {
         alt={removeHyphensAndCapitalize(name)}
         className="card__img "
       />
-      <a href={link}>
+      <a href={link} className="card_link">
         <div className="card__img--hover"></div>
       </a>
 
