@@ -1,9 +1,6 @@
 import React, { useEffect } from "react";
 import { capitalizeFirstLetter } from "../../utils/helpers";
 
-import "../../styles/style.css";
-import "../../styles/reset.css";
-
 function Nav(props) {
   const { pages = [], setCurrentPage, currentPage } = props;
 

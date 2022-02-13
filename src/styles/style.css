@@ -28,6 +28,7 @@ nav ul {
 
 nav li {
     margin: 6px;
+    cursor: pointer;
 
 }
 
