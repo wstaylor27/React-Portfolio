@@ -26,12 +26,11 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Check Mate Finance Tool</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Collaboration
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application allows users to keep track of their expenses
+                  and setting smart savings goals.
+                </h3>
               </div>
             </article>
 
@@ -48,12 +47,12 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Sip N' Show</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Collaboration
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application assists the user to find an event featuring
+                  their favorite band or artist along with a local brewery to
+                  visit before or after the show.
+                </h3>
               </div>
             </article>
 
@@ -70,12 +69,11 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Work Day Scheduler</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Wesley Taylor
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application allows users to dynamically schedule their
+                  activities within their day.
+                </h3>
               </div>
             </article>
 
@@ -92,12 +90,11 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Code Quizzer</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Wesley Taylor
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application tests the knowledge of basics of web
+                  development.
+                </h3>
               </div>
             </article>
 
@@ -114,12 +111,10 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Randy Passcode Generator</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Wesley Taylor
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application generates a strong random password for users.
+                </h3>
               </div>
             </article>
 
@@ -136,12 +131,11 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Weather App</h3>
-                <span className="card__by">
-                  by
-                  <a href="#" className="card__author" title="author">
-                    Wesley Taylor
-                  </a>
-                </span>
+                <span className="card__by">Description</span>
+                <h3>
+                  This application displays current and future weather
+                  conditions around the world.
+                </h3>
               </div>
             </article>
           </section>

@@ -236,7 +236,7 @@ article ul {
       font-size: 13px;
       letter-spacing: 2px;
       font-weight: 500;
-    color: #868686;
+      color: #AD7D52
   }
   
   .card__title {
@@ -249,6 +249,7 @@ article ul {
       font-size: 12px;
       font-family: 'Raleway', sans-serif;
       font-weight: 500;
+      color: #AD7D52
   }
   
   .card__author {
