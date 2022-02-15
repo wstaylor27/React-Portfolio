@@ -249,7 +249,8 @@ article ul {
       font-size: 12px;
       font-family: 'Raleway', sans-serif;
       font-weight: 500;
-      color: #AD7D52
+      color: #AD7D52;
+      margin: 10px 0 5px 0;
   }
   
   .card__author {

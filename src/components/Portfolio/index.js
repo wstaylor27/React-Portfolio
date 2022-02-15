@@ -26,7 +26,11 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Check Mate Finance Tool</h3>
-                <span className="card__by">Description</span>
+                <div className="card__category">
+                  JS, Node.js, Express.js, mySQL
+                </div>
+
+                <h4 className="card__by">Description</h4>
                 <h3>
                   This application allows users to keep track of their expenses
                   and setting smart savings goals.
@@ -47,7 +51,10 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Sip N' Show</h3>
-                <span className="card__by">Description</span>
+                <span className="card__category">
+                  HTML, CSS, JS, REST API, Bootstrap
+                </span>
+                <h4 className="card__by">Description</h4>
                 <h3>
                   This application assists the user to find an event featuring
                   their favorite band or artist along with a local brewery to
