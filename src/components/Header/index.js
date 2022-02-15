@@ -9,7 +9,9 @@ export default function Header(props) {
     <div>
       <header>
         <h1>Wesley Taylor : Interactive Portfolio</h1>
-        <p>Pushing the boundaries of software development.</p>
+        <p>
+          <em>Pushing the boundaries of software development.</em>
+        </p>
         {props.children}
       </header>
       <div class="banner"></div>
