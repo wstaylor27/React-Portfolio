@@ -27,7 +27,7 @@ export default function Portfolio() {
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Check Mate Finance Tool</h3>
                 <div className="card__category">
-                  JS, Node.js, Express.js, mySQL
+                  JAVASCRIPT, NODE.JS, EXPRESS.JS, MYSQL
                 </div>
 
                 <h4 className="card__by">Description</h4>
@@ -52,7 +52,7 @@ export default function Portfolio() {
                 <span className="card__category">Project</span>
                 <h3 className="card__title">Sip N' Show</h3>
                 <span className="card__category">
-                  HTML, CSS, JS, REST API, Bootstrap
+                  HTML, CSS, JAVASCRIPT, REST API, BOOTSTRAP
                 </span>
                 <h4 className="card__by">Description</h4>
                 <h3>
@@ -76,7 +76,8 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Work Day Scheduler</h3>
-                <span className="card__by">Description</span>
+                <div className="card__category">HTML, CSS, JAVASCRIPT</div>
+                <h4 className="card__by">Description</h4>
                 <h3>
                   This application allows users to dynamically schedule their
                   activities within their day.
@@ -87,7 +88,7 @@ export default function Portfolio() {
             <article className="card card--4">
               <div className="card__img"></div>
               <a
-                href="https://wstaylor27.github.io/Code-Quizzer/"
+                href="https://powerful-ridge-40625.herokuapp.com/"
                 target="_blank"
                 className="card_link"
                 rel="noreferrer"
@@ -96,11 +97,14 @@ export default function Portfolio() {
               </a>
               <div className="card__info">
                 <span className="card__category">Repo</span>
-                <h3 className="card__title">Code Quizzer</h3>
-                <span className="card__by">Description</span>
+                <h3 className="card__title">Workout Tracker</h3>
+                <div className="card__category">
+                  JAVASCRIPT, NOSQL, EXPRESS.JS
+                </div>
+                <h4 className="card__by">Description</h4>
                 <h3>
-                  This application tests the knowledge of basics of web
-                  development.
+                  This application logs all workouts with visual progress
+                  representation.
                 </h3>
               </div>
             </article>
@@ -118,7 +122,8 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Randy Passcode Generator</h3>
-                <span className="card__by">Description</span>
+                <div className="card__category">HTML, CSS, JAVASCRIPT</div>
+                <h4 className="card__by">Description</h4>
                 <h3>
                   This application generates a strong random password for users.
                 </h3>
@@ -138,7 +143,10 @@ export default function Portfolio() {
               <div className="card__info">
                 <span className="card__category">Repo</span>
                 <h3 className="card__title">Weather App</h3>
-                <span className="card__by">Description</span>
+                <div className="card__category">
+                  HTML, CSS, JAVASCRIPT, REST API
+                </div>
+                <h4 className="card__by">Description</h4>
                 <h3>
                   This application displays current and future weather
                   conditions around the world.
