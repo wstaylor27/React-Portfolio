@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.46eeff86.css",
-    "main.js": "/React-Portfolio/static/js/main.0c3b6f48.js",
-    "static/media/nasa-rTZW4f02zY8-unsplash.jpg": "/React-Portfolio/static/media/nasa-rTZW4f02zY8-unsplash.23084e057faa2747a436.jpg",
-    "static/media/jesse-collins-FFPqqU97fkk-unsplash.jpg": "/React-Portfolio/static/media/jesse-collins-FFPqqU97fkk-unsplash.520faa9eab93b9cee12a.jpg",
+    "main.css": "/React-Portfolio/static/css/main.c07df824.css",
+    "main.js": "/React-Portfolio/static/js/main.21eb5af4.js",
     "static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.jpg": "/React-Portfolio/static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.70870597c791ca9e6ba5.jpg",
-    "static/media/rihards-sergis-EH-a9zA9TNw-unsplash.jpg": "/React-Portfolio/static/media/rihards-sergis-EH-a9zA9TNw-unsplash.9fed93a28d8515a1cb4c.jpg",
-    "static/media/clemens-jezler-mIV2_977biU-unsplash.jpg": "/React-Portfolio/static/media/clemens-jezler-mIV2_977biU-unsplash.8700597787f3c6171d0a.jpg",
-    "static/media/tiagojoaoreis-ltYGmSV3dig-unsplash.jpg": "/React-Portfolio/static/media/tiagojoaoreis-ltYGmSV3dig-unsplash.4f929dd9703946f3c213.jpg",
-    "static/media/george-kroeker-5H1KvcQTKsU-unsplash.jpg": "/React-Portfolio/static/media/george-kroeker-5H1KvcQTKsU-unsplash.11483e2aaf3562ea555a.jpg",
+    "static/media/workout-tracker.jpg": "/React-Portfolio/static/media/workout-tracker.5bdc6251698ec12681a5.jpg",
+    "static/media/check-mate.jpg": "/React-Portfolio/static/media/check-mate.359cd8106a67cff6054c.jpg",
+    "static/media/portfolio_profile pic.jpg": "/React-Portfolio/static/media/portfolio_profile pic.129257f3cb85e0372149.jpg",
+    "static/media/sip-n-show.jpg": "/React-Portfolio/static/media/sip-n-show.f1354b24d54274ec2411.jpg",
+    "static/media/precise-weather-app.jpg": "/React-Portfolio/static/media/precise-weather-app.cd7c0d2f4faf6ed5f539.jpg",
+    "static/media/randy-passcode-generator.jpg": "/React-Portfolio/static/media/randy-passcode-generator.34da1e09d2f4ad96bf43.jpg",
+    "static/media/work-day-scheduler.jpg": "/React-Portfolio/static/media/work-day-scheduler.cecce3dd0071b6ebe7cd.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.46eeff86.css.map": "/React-Portfolio/static/css/main.46eeff86.css.map",
-    "main.0c3b6f48.js.map": "/React-Portfolio/static/js/main.0c3b6f48.js.map"
+    "main.c07df824.css.map": "/React-Portfolio/static/css/main.c07df824.css.map",
+    "main.21eb5af4.js.map": "/React-Portfolio/static/js/main.21eb5af4.js.map"
   },
   "entrypoints": [
-    "static/css/main.46eeff86.css",
-    "static/js/main.0c3b6f48.js"
+    "static/css/main.c07df824.css",
+    "static/js/main.21eb5af4.js"
   ]
 }
