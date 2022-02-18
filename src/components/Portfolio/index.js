@@ -35,6 +35,16 @@ export default function Portfolio() {
                   This application allows users to keep track of their expenses
                   and setting smart savings goals.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Check-Mate"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
 
@@ -60,6 +70,16 @@ export default function Portfolio() {
                   their favorite band or artist along with a local brewery to
                   visit before or after the show.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Sip-N-Show"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
 
@@ -82,6 +102,16 @@ export default function Portfolio() {
                   This application allows users to dynamically schedule their
                   activities within their day.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Work-Day-Scheduler"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
 
@@ -106,6 +136,16 @@ export default function Portfolio() {
                   This application logs all workouts with visual progress
                   representation.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Workout-Tracker-App"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
 
@@ -127,6 +167,16 @@ export default function Portfolio() {
                 <h3>
                   This application generates a strong random password for users.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Randy-Passcode-Generator"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
 
@@ -151,6 +201,16 @@ export default function Portfolio() {
                   This application displays current and future weather
                   conditions around the world.
                 </h3>
+                <div className="github">
+                  <a
+                    href="https://github.com/wstaylor27/Precise-Weather-App"
+                    target="_blank"
+                    className="card_link"
+                    rel="noreferrer"
+                  >
+                    GitHub
+                  </a>
+                </div>
               </div>
             </article>
           </section>

@@ -236,7 +236,18 @@ article ul {
       font-size: 13px;
       letter-spacing: 2px;
       font-weight: 500;
-      color: #AD7D52
+      color: #AD7D52;
+      
+  }
+
+  .github {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #AD7D52;
+    margin-top: 5px;
   }
   
   .card__title {
