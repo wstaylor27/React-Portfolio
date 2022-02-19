@@ -304,6 +304,22 @@ article ul {
     
 }
 
+.contact_info {
+
+    left: 800px;
+    bottom: 300px;
+}
+
+.contact_info ul{
+    display: flex;
+    justify-content: space-between;
+    min-width: 100px;
+}
+
+.contact_info li {
+    margin: 10px;
+}
+
 
 .contact ul {
     display: flex;
