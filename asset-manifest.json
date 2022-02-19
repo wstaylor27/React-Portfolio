@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.289bba36.css",
-    "main.js": "/React-Portfolio/static/js/main.f6a3dd62.js",
+    "main.css": "/React-Portfolio/static/css/main.bd44223b.css",
+    "main.js": "/React-Portfolio/static/js/main.afc4d734.js",
     "static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.jpg": "/React-Portfolio/static/media/jakob-rosen-R3Kt-VGPwUI-unsplash.70870597c791ca9e6ba5.jpg",
     "static/media/workout-tracker.jpg": "/React-Portfolio/static/media/workout-tracker.5bdc6251698ec12681a5.jpg",
     "static/media/check-mate.jpg": "/React-Portfolio/static/media/check-mate.359cd8106a67cff6054c.jpg",
@@ -11,11 +11,11 @@
     "static/media/randy-passcode-generator.jpg": "/React-Portfolio/static/media/randy-passcode-generator.34da1e09d2f4ad96bf43.jpg",
     "static/media/work-day-scheduler.jpg": "/React-Portfolio/static/media/work-day-scheduler.cecce3dd0071b6ebe7cd.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.289bba36.css.map": "/React-Portfolio/static/css/main.289bba36.css.map",
-    "main.f6a3dd62.js.map": "/React-Portfolio/static/js/main.f6a3dd62.js.map"
+    "main.bd44223b.css.map": "/React-Portfolio/static/css/main.bd44223b.css.map",
+    "main.afc4d734.js.map": "/React-Portfolio/static/js/main.afc4d734.js.map"
   },
   "entrypoints": [
-    "static/css/main.289bba36.css",
-    "static/js/main.f6a3dd62.js"
+    "static/css/main.bd44223b.css",
+    "static/js/main.afc4d734.js"
   ]
 }
