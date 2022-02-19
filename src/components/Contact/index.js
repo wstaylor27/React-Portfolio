@@ -150,5 +150,3 @@ export default Contact;
 //     </li>
 //   </ul>
 // </section>
-
-require("dotenv").config();
