@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { validateEmail } from "../../utils/helpers";
+import emailjs from "emailjs-com";
 
 import "../../styles/style.css";
 import "../../styles/reset.css";
@@ -13,11 +14,24 @@ function Contact() {
   const [errorMessage, setErrorMessage] = useState("");
   const { name, email, message } = formState;
 
-  const handleSubmit = (e) => {
+  const sendEmail = (e) => {
     e.preventDefault();
-    if (!errorMessage) {
-      console.log("Submit Form", formState);
-    }
+
+    emailjs
+      .sendForm(
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
+        e.target,
+        process.env.REACT_APP_USER_ID
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
   };
 
   const handleChange = (e) => {
@@ -43,7 +57,7 @@ function Contact() {
 
   return (
     <section>
-      <form id="contact-form" onSubmit={handleSubmit}>
+      <form id="contact-form" onSubmit={sendEmail}>
         <div>
           <label htmlFor="name">Name:</label>
           <input
@@ -136,3 +150,5 @@ export default Contact;
 //     </li>
 //   </ul>
 // </section>
+
+require("dotenv").config();
